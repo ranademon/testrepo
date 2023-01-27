@@ -1,0 +1,2 @@
+Hello this is a test.txt file.
+I've added it usign Git Bash command prompt.
